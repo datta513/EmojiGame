@@ -1,0 +1,12 @@
+/* Write your code here. */
+.disp {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  justify-content: space-between;
+}
+.const {
+  display: flex;
+  color: white;
+  margin: 5px;
+}

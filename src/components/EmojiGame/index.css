@@ -1,0 +1,20 @@
+/* Write your code here. */
+.lis {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap-reverse;
+  width: 65vw;
+  list-style: none;
+}
+.main {
+  background-image: linear-gradient(to top, #fbc7d4, #9796f0);
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 15px;
+}
+.cont {
+  width: 90vw;
+  display: flex;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,18 @@
+/* Write your code here. */
+.ima {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 70vw;
+  color: white;
+}
+.out {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.fo {
+  font-style: italic;
+  font-size: x-large;
+}
